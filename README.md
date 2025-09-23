@@ -1,1 +1,3 @@
-# Presentation_AI
+# Présentation cours de Francis Munier : l'acceptabilité sociale de l'IA
+
+Comme on doit faire un rapport et une présentation, on peut tout déposer sur ce répertoire et ensuite faire des pulls / forks etc...
