@@ -4,17 +4,18 @@ Comme on doit faire un rapport et une présentation, on peut tout déposer sur c
 
 ## Références
 
-https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12734
-https://journals.sagepub.com/doi/full/10.1177/2055207619871808
+Acceptabilité sociale et éthique de l'IA
+- https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12734
+- https://journals.sagepub.com/doi/full/10.1177/2055207619871808
 
 Micro-travail et développement de l'IA
-https://hal.science/hal-02995186/
+- https://hal.science/hal-02995186/
 
 Sous-traitance du travail de la donnée à Madagascar
-https://hal.science/tel-04605206v3
+- https://hal.science/tel-04605206v3
 
 Impact de l'IA sur le développement
-https://www.emerald.com/jebde/article/3/2/142/1233575/The-impact-of-artificial-intelligence-on-economic
+- https://www.emerald.com/jebde/article/3/2/142/1233575/The-impact-of-artificial-intelligence-on-economic
 
 Complémentarité ou substituabilité de l'IA au travail
-https://www.sciencedirect.com/science/article/pii/S2773032824000154
+- https://www.sciencedirect.com/science/article/pii/S2773032824000154
