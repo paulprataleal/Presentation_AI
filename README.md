@@ -2,7 +2,7 @@
 
 Comme on doit faire un rapport et une présentation, on peut tout déposer sur ce répertoire et ensuite faire des pulls / forks etc...
 
-## Références
+## Références   
 
 Acceptabilité sociale et éthique de l'IA
 - https://onlinelibrary.wiley.com/doi/full/10.1111/risa.12734
